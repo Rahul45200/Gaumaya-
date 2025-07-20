@@ -1,1 +1,28 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gaumaya</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header style="background:#2e7d32;color:white;padding:10px;">
+    <h1>Gaumaya</h1>
+    <p>Desi, Natural Products</p>
+  </header>
+
+  <section style="padding:20px;">
+    <h2>Our Products</h2>
+    <ul>
+      <li>Ghee</li>
+      <li>Herbal Dhoop</li>
+    </ul>
+  </section>
+
+  <footer style="background:#eee;padding:10px;text-align:center;">
+    <p>© 2025 Gaumaya</p>
+  </footer>
+</body>
+</html>
